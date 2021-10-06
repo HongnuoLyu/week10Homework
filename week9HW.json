@@ -27,7 +27,7 @@
 "lookup": "properties.NAME",
 "from": {
 "data": {
-"url": "https://raw.githubusercontent.com/HongnuoLyu/Week9Homework/main/hww9.csv"
+"url": "https://raw.githubusercontent.com/HongnuoLyu/week10Homework/main/hww9.csv"
 },
 "key": "Row Labels",
 "fields": ["Rate", "Sum of Killed","Sum of Wounded"]
